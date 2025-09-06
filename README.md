@@ -94,6 +94,7 @@ We welcome your questions and feedback and are glad to support developments of f
 ```
 <br/>
 - Master's thesis
+  
 > İnanır, Ş. (2024). FIXEIN: A mobile and modular eye-tracking system, Master’s thesis, Yildiz Technical University, YOK Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=UjlM15wKZGQW6TLC0pvCty4v6J5vd_fg08_KOX5R3co_5Ju4LjSLjAiZ9sQhj7s5
 
 ```perl
