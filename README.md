@@ -78,6 +78,7 @@ We welcome your questions and feedback and are glad to support developments of f
 ## Citation
 - Academic publication
 > İnanır, Ş., Karaca, A.C. (2025). Real-time and accurate pupil detection based retro-oriented mind and ellipse trend analysis. Traitement du Signal, Vol. 42, No. 4, pp. 1841-1862. https://doi.org/10.18280/ts.420402
+
 > @article{InanirKaraca2025,
   author  = {Şerif İnanır and A. C. Karaca},
   title   = {Real-time and accurate pupil detection based retro-oriented mind and ellipse trend analysis},
