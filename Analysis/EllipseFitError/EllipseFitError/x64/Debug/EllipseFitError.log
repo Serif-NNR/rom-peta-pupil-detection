@@ -1,0 +1,13 @@
+﻿  EdgeDrawing.cpp
+X:\Fixein Pupil Detection\EllipseFitError\EllipseFitError\EdgeDrawing.cpp(8,10): fatal error C1083: Cannot open include file: 'cvconfig.h': No such file or directory
+  Ellipse.cpp
+X:\Fixein Pupil Detection\EllipseFitError\EllipseFitError\Ellipse.cpp(1211,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+X:\Fixein Pupil Detection\EllipseFitError\EllipseFitError\Ellipse.cpp(1212,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+X:\Fixein Pupil Detection\EllipseFitError\EllipseFitError\Ellipse.cpp(1299,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+X:\Fixein Pupil Detection\EllipseFitError\EllipseFitError\Ellipse.cpp(1300,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  EllipseFit.cpp
+  main.cpp
+X:\Fixein Pupil Detection\EllipseFitError\EllipseFitError\main.cpp(5,10): fatal error C1083: Cannot open include file: 'opencv.hpp': No such file or directory
+  stdafx.cpp
+  Timer.cpp
+  Generating Code...
