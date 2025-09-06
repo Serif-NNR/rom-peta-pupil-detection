@@ -18,7 +18,7 @@ The implementation of the study focusing on detecting the segmentation map of th
 
 <br/>
 
-- For the master's thesis of the comprehensive work called **Fixein** (supervised by Assoc. Prof. Ali Can Karaca, Department of Computer Engineering, Yildiz Technical University, Turkey), which also covers ROM-PETA:
+- For the master's thesis of the comprehensive work called **Fixein** (*supervised by Assoc. Prof. Ali Can Karaca, Department of Computer Engineering, Yildiz Technical University, Turkey*), which also covers ROM-PETA:
 > [FIXEIN: A MOBILE AND MODULAR EYE TRACKING SYSTEM](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=UjlM15wKZGQW6TLC0pvCty4v6J5vd_fg08_KOX5R3co_5Ju4LjSLjAiZ9sQhj7s5 "FIXEIN: A MOBILE AND MODULAR EYE TRACKING SYSTEM")
 
 <br/><br/>
