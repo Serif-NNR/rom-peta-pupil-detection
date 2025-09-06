@@ -13,7 +13,7 @@ The implementation of the study focusing on detecting the segmentation map of th
 ##  Academic side
 
 
-- If you would like to access the academic article of this study, named **ROM and PETA**, which is derived from the eye-tracking system called **Fixein**:
+- If you would like to access the academic article of this study (Şerif İnanır and Ali Can Karaca, Department of Computer Engineering, Yildiz Technical University, Turkey), named **ROM and PETA**, which is derived from the eye-tracking system called **Fixein**:
 > [Real-Time and Accurate Pupil Detection Based Retro-Oriented Mind and Ellipse Trend Analysis ](https://www.iieta.org/journals/ts/paper/10.18280/ts.420402 "Real-Time and Accurate Pupil Detection Based Retro-Oriented Mind and Ellipse Trend Analysis ")
 
 <br/>
