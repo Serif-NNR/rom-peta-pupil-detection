@@ -65,3 +65,13 @@ The main entry point in the code is the file **learning_model_backbone.py**, whi
 - If desired, to retrieve the segmentation model's result without applying ROM, the *detect_without_rom method* can be used.
 
 As noted in the academic publication, to automatically generate traditional method parameters, you need to instantiate the **AutoTraditionalConfiguration** class, located in *Auto_Traditional_Configuration/auto_traditional_conf.py*. Using its perform method, it is possible to obtain the traditional method parameters for a given image.
+
+
+<br/><br/>
+## Contact
+For any questions regarding the academic publication or the code, please don’t hesitate to contact us at sheriffnnr@gmail.com
+
+We welcome your questions and feedback and are glad to support developments of future studies.
+
+<br/><br/>
+
