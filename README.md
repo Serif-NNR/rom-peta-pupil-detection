@@ -19,7 +19,7 @@ The implementation of the study focusing on detecting the segmentation map of th
 <br/>
 
 - For the master's thesis of the comprehensive work called **Fixein** (*supervised by Assoc. Prof. Ali Can Karaca, Department of Computer Engineering, Yildiz Technical University, Turkey*), which also covers ROM-PETA:
-> [FIXEIN: A MOBILE AND MODULAR EYE TRACKING SYSTEM](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=UjlM15wKZGQW6TLC0pvCty4v6J5vd_fg08_KOX5R3co_5Ju4LjSLjAiZ9sQhj7s5 "FIXEIN: A MOBILE AND MODULAR EYE TRACKING SYSTEM")
+> [FIXEIN: A Mobile and Modular Eye Tracking System](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=UjlM15wKZGQW6TLC0pvCty4v6J5vd_fg08_KOX5R3co_5Ju4LjSLjAiZ9sQhj7s5 "FIXEIN: A MOBILE AND MODULAR EYE TRACKING SYSTEM")
 
 <br/><br/>
 
@@ -94,5 +94,18 @@ We welcome your questions and feedback and are glad to support developments of f
 ```
 <br/>
 - Master's thesis
-> 
+> İnanır, Ş. (2024). FIXEIN: A mobile and modular eye-tracking system, Master’s thesis, Yildiz Technical University, YOK Thesis Center. https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=UjlM15wKZGQW6TLC0pvCty4v6J5vd_fg08_KOX5R3co_5Ju4LjSLjAiZ9sQhj7s5
+
+```perl
+@thesis{Inanir2025Thesis,
+  author      = {İnanır, Şerif},
+  title       = {FIXEIN: A Mobile and Modular Eye Tracking System},
+  type        = {Master's thesis},
+  institution = {Yildiz Technical University},
+  location    = {Istanbul, Turkey},
+  date        = {2024},
+  url         = {https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=UjlM15wKZGQW6TLC0pvCty4v6J5vd_fg08_KOX5R3co_5Ju4LjSLjAiZ9sQhj7s5},
+  advisor     = {Karaca, A. C.}  
+}
+```
 <br/><br/>
